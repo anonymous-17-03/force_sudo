@@ -33,7 +33,7 @@ Clona el repositorio o descarga el archivo manualmente:
 git clone https://github.com/anonymous-17-03/force_sudo
 cd force_sudo
 chmod +x force_sudo.sh
-````
+```
 
 ---
 
@@ -63,11 +63,11 @@ chmod +x force_sudo.sh
 
 ## 🧪 Funcionamiento Interno
 
-* **Colores ANSI:** Se utilizan para mejorar la visualización en terminal.
-* **Banner personalizado:** Muestra un mensaje llamativo al iniciar.
-* **`timeout`:** Restringe el tiempo por intento a 0.2 segundos para evitar bloqueos.
-* **Control de señales:** Se captura `Ctrl+C` para salir limpiamente.
-* **Cuenta de líneas:** Muestra la línea actual del diccionario para facilitar análisis.
+- **Colores ANSI:** Se utilizan para mejorar la visualización en terminal.
+- **Banner personalizado:** Muestra un mensaje llamativo al iniciar.
+- **`timeout`:** Restringe el tiempo por intento a 0.2 segundos para evitar bloqueos.
+- **Control de señales:** Se captura `Ctrl+C` para salir limpiamente.
+- **Cuenta de líneas:** Muestra la línea actual del diccionario para facilitar análisis.
 
 ---
 
@@ -92,9 +92,9 @@ Este script está desarrollado con fines **educativos y de auditoría legalmente
 
 ## ✍️ Créditos
 
-* 🎨 Diseño y código: [Anonymous17](https://github.com/anonymous-17-03)
-* 🛠 Inspirado en herramientas de pentesting como `hydra`, pero simplificado para usuarios de bash
-* 💻 Compatible con la mayoría de entornos Linux tradicionales (Debian, Arch, Parrot, Kali)
+- 🎨 Diseño y código: [Anonymous17](https://github.com/anonymous-17-03)
+- 🛠 Inspirado en herramientas de pentesting como `hydra`, pero simplificado para usuarios de bash
+- 💻 Compatible con la mayoría de entornos Linux tradicionales (Debian, Arch, Parrot, Kali)
 
 ---
 
